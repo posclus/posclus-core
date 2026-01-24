@@ -11,6 +11,9 @@
 
 POSCLUS is an open-source platform for deploying and managing production-ready PostgreSQL HA clusters using Patroni.
 
+<img width="300"  alt="resim" src="https://github.com/user-attachments/assets/fdd941dc-d0fe-4701-893a-c1f307ed2c4e" />
+
+
 ## Features
 
 - **Agent-based Architecture** - Lightweight agents deployed on each node
@@ -24,6 +27,9 @@ POSCLUS is an open-source platform for deploying and managing production-ready P
 **Under Active Development**
 
 We're building the MVP. Watch this repo for updates.
+
+<img width="1900" height="1059" alt="posclus" src="https://github.com/user-attachments/assets/1a36bac4-f269-486c-ac6a-2dd41a01b813" />
+
 
 ## Tech Stack
 
