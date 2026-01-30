@@ -28,8 +28,6 @@ POSCLUS is an open-source platform for deploying and managing production-ready P
 
 We're building the MVP. Watch this repo for updates.
 
-<img width="1900" height="1059" alt="posclus" src="https://github.com/user-attachments/assets/1a36bac4-f269-486c-ac6a-2dd41a01b813" />
-
 
 ## Tech Stack
 
